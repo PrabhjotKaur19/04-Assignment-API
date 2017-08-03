@@ -12,7 +12,8 @@
 We test this API using Postman.
 *Routes:*
 GET
-*http://localhost:3000/books
+
+* http://localhost:3000/books
 *http://localhost:3000/books/{id}
 *http://localhost:3000/books/searchbytitle/{title}
 *http://localhost:3000/books/searchbyauthor/{author}
