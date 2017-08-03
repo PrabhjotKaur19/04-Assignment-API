@@ -1,6 +1,6 @@
 # 04-Assignment-API
 
-##Team Members:
+## Team Members:
 
 *1 Name:* Prabhjot Kaur
 
@@ -14,8 +14,10 @@
 
 *Student ID:* 100284889
 
-##How To Test?
+## How To Test
+
 We test this API using Postman.
+
 *Routes:*
 
 GET
