@@ -12,23 +12,23 @@
 We test this API using Postman.
 *Routes:*
 GET
-http://localhost:3000/books
-http://localhost:3000/books/{id}
-http://localhost:3000/books/searchbytitle/{title}
-http://localhost:3000/books/searchbyauthor/{author}
-http://localhost:3000/books/searchbygenre/{genre}
-http://localhost:3000/users
-http://localhost:3000/users/{id}
-http://localhost:3000/users/latefees
+*http://localhost:3000/books
+*http://localhost:3000/books/{id}
+*http://localhost:3000/books/searchbytitle/{title}
+*http://localhost:3000/books/searchbyauthor/{author}
+*http://localhost:3000/books/searchbygenre/{genre}
+*http://localhost:3000/users
+*http://localhost:3000/users/{id}
+*http://localhost:3000/users/latefees
 
 POST
-http://localhost:3000/books
-http://localhost:3000/users
+*http://localhost:3000/books
+*http://localhost:3000/users
 
 PUT
-http://localhost:3000/books/{id}
-http://localhost:3000/users/{id}
+*http://localhost:3000/books/{id}
+*http://localhost:3000/users/{id}
 
 DELETE
-http://localhost:3000/books/{id}
-http://localhost:3000/users/{id}
+*http://localhost:3000/books/{id}
+*http://localhost:3000/users/{id}
