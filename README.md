@@ -18,7 +18,7 @@
 
 We test this API using Postman.
 
-*Routes:*
+### Routes:
 
 GET
 
